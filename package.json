@@ -1,0 +1,23 @@
+{
+  "name": "fcc-local-weather",
+  "version": "1.0.0",
+  "description": "A local weather app created in pursuit of the FCC frontend developer cert.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanJFletcher/fcc-local-weather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanJFletcher/fcc-local-weather/issues"
+  },
+  "homepage": "https://github.com/DanJFletcher/fcc-local-weather#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
