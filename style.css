@@ -20,6 +20,8 @@ h2 {
   margin: 30px auto;
 }
 
+.content input { color: #444; }
+
 .bg {
   position: absolute;
   height: 100vh;
@@ -56,3 +58,6 @@ h2 {
 .button:hover {
   cursor: pointer;
 }
+
+/* Google places autocomplete styles */
+.pac-matched { color: #666 }
