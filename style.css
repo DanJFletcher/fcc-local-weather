@@ -1,0 +1,58 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  margin: 0px;
+  padding: 0px;
+  font-size: 1.15em;
+  color: white;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+.container-fluid {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.content {
+  margin: 30px auto;
+}
+
+.bg {
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+  background-color: #555;
+  opacity: 0.6;
+  z-index: -1;
+}
+
+.container-fluid .jumbotron {
+  background-color: #444;
+  padding: 10px;
+  margin: 0;
+  border-radius: 0;
+  width: 100%;
+}
+
+.temp {
+  font-size: 4em;
+  color: #3386BE;
+}
+
+.city {}
+
+.location {}
+
+.button {
+  display: inline-block;
+  background-color: #3386BE;
+  padding: 5px 12px 5px;
+  margin: 2px;
+}
+
+.button:hover {
+  cursor: pointer;
+}
